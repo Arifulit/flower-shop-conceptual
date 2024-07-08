@@ -215,3 +215,22 @@ featured-image-container {
     align-items: center;
 
   }
+  .flower-shop{
+   
+    margin: 5px;
+    padding: 50px;
+   
+
+
+  }
+.flower-shop h1{
+    text-align: center;
+
+   
+}
+flower-shop p{
+    
+    color: white;
+    
+
+}
